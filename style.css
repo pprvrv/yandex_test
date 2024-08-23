@@ -661,7 +661,6 @@ table td {
     margin: 25px 0 5px 0;
 }
 
-/* Скрыть полосу прокрутки для элемента */
 .swiper-scrollbar {
     background-color: transparent;
     background: transparent;
@@ -793,7 +792,7 @@ footer {
 
 @media only screen and (max-width: 376px) {
     .container {
-        width: 375px;
+        width: 335px;
     }
 
     header {
