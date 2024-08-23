@@ -131,7 +131,7 @@
         </div>
     </section>
     <section class="section3">
-        <div class="container" style="flex-direction: column;">
+        <div class="container" style="flex-direction: column;     justify-content: flex-start;">
             <p class="section3_zag">ЭТАПЫ ПРЕОБРАЖЕНИЯ <br> ВАСЮКОВ</p>
             <p class="section3_subzag">Будущие источники<br> обогащения васюкинцев</p>
 
